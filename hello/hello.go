@@ -4,6 +4,6 @@ import "fmt"
 
 // Greet test
 func Greet() string {
-	fmt.Print("xx")
+	fmt.Print("xxx")
 	return "Hello Github actions"
 }
